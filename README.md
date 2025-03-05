@@ -1,5 +1,6 @@
 # Meowdoro Tracker  
 **A Simple Pomodoro Timer Chrome Extension for Focused Productivity**  
+![Meowdoro Tracker Chrome Extension logo](https://imgur.com/bhxlczv)
 
 ---
 
@@ -7,6 +8,7 @@
 **Meowdoro Tracker** is a minimalist and user-friendly Chrome extension designed to help you stay focused and productive using the Pomodoro Technique. Whether you're studying, working, or tackling a big project, Meowdoro Tracker breaks your tasks into manageable intervals, ensuring you stay on track without distractions.  
 
 With its clean design and customizable timer settings, Meowdoro Tracker is perfect for anyone looking to boost productivity without overcomplicating their workflow.  
+![Meowdoro Tracker Chrome Extension logo](https://imgur.com/Xq5rY1d)
 
 ---
 
@@ -15,7 +17,8 @@ With its clean design and customizable timer settings, Meowdoro Tracker is perfe
 - **Customizable Timers**: Adjust work and break durations to fit your workflow.  
 - **Distraction-Free Design**: No unnecessary features or clutter—just a clean, calming interface.  
 - **Easy to Use**: Install the extension, set your timer, and start working.  
-- **Cross-Platform**: Works seamlessly as a Chrome extension.  
+- **Cross-Platform**: Works seamlessly as a Chrome extension.
+![Meowdoro Tracker Chrome Extension logo](https://imgur.com/lu7K4VS)
 
 ---
 
@@ -30,7 +33,7 @@ With its clean design and customizable timer settings, Meowdoro Tracker is perfe
 
 ## INSTALLATION:  
 ### **Chrome**:  
-1. Download the extension from the [Chrome Web Store](#) (link to be added).  
+1. Download the extension from the [Chrome Web Store](https://chromewebstore.google.com/detail/meowdoro-tracker-pomodoro/gmmcoggmjnbbklphjcbnpfepmagelgkk).  
 2. Click "Add to Chrome" to install.  
 3. Pin the extension to your toolbar for easy access.  
 
@@ -40,7 +43,7 @@ With its clean design and customizable timer settings, Meowdoro Tracker is perfe
 - **Simplicity**: Designed to be straightforward and easy to use.  
 - **Focus**: Helps you stay on task without distractions.  
 - **Flexibility**: Customizable timers to fit your unique workflow.  
-- **No Overhead**: No accounts, no subscriptions—just a simple tool to boost productivity.  
+- **No Overhead**: No accounts, no subscriptions - just a simple tool to boost productivity.  
 
 ---
 
@@ -52,20 +55,10 @@ We’re constantly working to improve Meowdoro Tracker. Planned features include
 
 ---
 
-## LICENSE:  
-Meowdoro Tracker is open-source and licensed under the MIT License. Feel free to contribute or customize the code to suit your needs.  
-
----
-
 ## SUPPORT:  
 If you find Meowdoro Tracker helpful, consider supporting the project:  
-- **Star the Repository**: Show your love on GitHub!  
-- **Buy Me a Coffee**: [ko-fi.com/yourusername](#)  
-
----
-
-## CREDITS:  
-Meowdoro Tracker was created with simplicity and productivity in mind. Special thanks to the open-source community for inspiration and support.  
+- **Star the Repository**: Show your love on GitHub!
+- **Support us on Product Hunt**: Follow, Upvote, "I use this" and add review!
 
 ---
 
