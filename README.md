@@ -9,7 +9,8 @@
 **Meowdoro Tracker** is a minimalist and user-friendly Chrome extension designed to help you stay focused and productive using the Pomodoro Technique. Whether you're studying, working, or tackling a big project, Meowdoro Tracker breaks your tasks into manageable intervals, ensuring you stay on track without distractions.  
 
 With its clean design and customizable timer settings, Meowdoro Tracker is perfect for anyone looking to boost productivity without overcomplicating their workflow.  
-![Meowdoro Tracker Chrome Extension logo](https://imgur.com/Xq5rY1d)
+
+![Meowdoro Tracker Chrome Extension logo](https://i.postimg.cc/prPvspqB/2.png)
 
 ---
 
@@ -19,7 +20,8 @@ With its clean design and customizable timer settings, Meowdoro Tracker is perfe
 - **Distraction-Free Design**: No unnecessary features or clutter—just a clean, calming interface.  
 - **Easy to Use**: Install the extension, set your timer, and start working.  
 - **Cross-Platform**: Works seamlessly as a Chrome extension.
-![Meowdoro Tracker Chrome Extension logo](https://imgur.com/lu7K4VS)
+
+![Meowdoro Tracker Chrome Extension logo](https://i.postimg.cc/G2xwTbdT/3.png)
 
 ---
 
@@ -64,4 +66,6 @@ If you find Meowdoro Tracker helpful, consider supporting the project:
 ---
 
 ## GET STARTED:  
-Ready to boost your productivity? Install Meowdoro Tracker today and experience the power of focused work!  
+Ready to boost your productivity? Install Meowdoro Tracker today and experience the power of focused work!
+
+![Meowdoro Tracker Chrome Extension logo](https://i.postimg.cc/L6qCrmwk/logo-2.png)
