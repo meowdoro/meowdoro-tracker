@@ -1,7 +1,7 @@
 # Meowdoro Tracker  
 **A Simple Pomodoro Timer Chrome Extension for Focused Productivity** 
 
-![Meowdoro Tracker Chrome Extension logo](https://imgur.com/a/WxVGITO)
+![Meowdoro Tracker Chrome Extension logo](https://i.postimg.cc/FRLzMdb5/1.png)
 
 ---
 
